@@ -16,3 +16,12 @@
 //= require bootstrap/alert
 //= require bootstrap/dropdown
 //= require_tree .
+//= require bootstrap-sprockets
+//= require jquery
+//= require jquery_ujs
+//= require turbolinks
+//= require bootstrap/alert
+//= require bootstrap/dropdown
+//= require bootstrap/modal
+
+//= require_tree .
